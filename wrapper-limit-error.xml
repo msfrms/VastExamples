@@ -5,7 +5,7 @@
       <AdTitle>Example</AdTitle>
       <Error><![CDATA[http://example.com/trackingurl/error]]></Error>
       <VASTAdTagURI>
-        <![CDATA[ https://github.com/msfrms/VastExamples/wrapper-limit-error.xml]]>
+        <![CDATA[ https://raw.githubusercontent.com/msfrms/VastExamples/refs/heads/develop/wrapper-limit-error.xml]]>
       </VASTAdTagURI>
     </Wrapper>
   </Ad>
