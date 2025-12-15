@@ -1,0 +1,12 @@
+<VAST version="4.0" xmlns="http://www.iab.com/VAST">
+  <Ad id="20011" sequence="1" conditionalAd="false">
+    <Wrapper>
+      <AdSystem>Example</AdSystem>
+      <AdTitle>Example</AdTitle>
+      <Error><![CDATA[http://example.com/trackingurl/error]]></Error>
+      <VASTAdTagURI>
+        <![CDATA[ https://github.com/msfrms/VastExamples/wrapper-limit-error.xml]]>
+      </VASTAdTagURI>
+    </Wrapper>
+  </Ad>
+</VAST>
