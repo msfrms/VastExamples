@@ -1,4 +1,4 @@
-<VAST version="1.0" xmlns="http://www.iab.com/VAST">
+<VAST xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.iab.com/VAST" version="4.0">
   <Ad id="20011" sequence="1" conditionalAd="false">
     <Wrapper>
       <AdSystem>Example</AdSystem>
