@@ -5,7 +5,7 @@
       <AdTitle>Example</AdTitle>
       <Error><![CDATA[http://example.com/trackingurl/error]]></Error>
       <VASTAdTagURI>
-        <![CDATA[]]>
+        <![CDATA[http://example.com/trackingurl/error]]>
       </VASTAdTagURI>
     </Wrapper>
   </Ad>
